@@ -5,6 +5,7 @@ public class cat {
     private String breeds;
     private double weight;
 
+
     void claw(){
         System.out.println("할퀴기");
     };

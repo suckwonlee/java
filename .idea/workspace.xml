@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ecae5e2-e509-4024-a97a-cf93cdaa6edf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/240829.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cat/cat.java" afterDir="false" />
-    </list>
+    <list default="true" id="6ecae5e2-e509-4024-a97a-cf93cdaa6edf" name="변경" comment="2024-08-29" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,11 +79,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724894246676</updated>
-      <workItem from="1724894247714" duration="4714000" />
+      <workItem from="1724894247714" duration="5018000" />
     </task>
+    <task id="LOCAL-00001" summary="2024-08-29">
+      <option name="closed" value="true" />
+      <created>1724899414595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724899414595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024-08-29" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-08-29" />
   </component>
 </project>
